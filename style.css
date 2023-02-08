@@ -49,6 +49,7 @@ header span {
   font-weight: 700;
   line-height: 28px;
   padding: 9px 24px;
+  z-index:999;
 }
 
 .btn1:hover {
